@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Darlington;
+    src: url("DarlingtonDemo.ttf");
+}
+body{
+    color: white;
+    background-image: url("images/1.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Darlington, sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+}
